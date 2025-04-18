@@ -1,4 +1,5 @@
-# E-Commerce: Analysis using Python 
+# E-Commerce: Data Analysis using Python 
+
 Sales &amp; Profit Of Store 
 
 1.⁠ ⁠You need to calculate the monthly sales of the store and identify which month had the highest sales and which month had the lowest sales.
